@@ -1,0 +1,7 @@
+{
+  "name": "mindful-journal-android",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Triggering Android compilation'"
+  }
+}

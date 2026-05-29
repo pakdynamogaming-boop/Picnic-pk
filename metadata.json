@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Picnic Points",
+  "description": "Scout and research hidden or popular picnic spots in Pakistan and globally with Gemini AI support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
